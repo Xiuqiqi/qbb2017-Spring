@@ -1,0 +1,12 @@
+. Sequence file : [a.phylip]
+
+. Model of amino acids substitution : LG
+
+. Initial tree : [BioNJ]
+
+
+. Data	Nb of 	Likelihood	Discrete   	Number of 	Gamma shape	Proportion of	Nucleotides frequencies               	
+  set	taxa	loglk     	gamma model	categories	parameter  	invariant    	f(A)      f(C)      f(G)      f(T)    	
+
+  #1	100   	-3156.96319	Yes        	4        	0.036    	0.000    	
+
