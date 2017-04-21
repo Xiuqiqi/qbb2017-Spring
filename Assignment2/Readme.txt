@@ -16,5 +16,8 @@ PHYLIP: First line is two numbers, number of sequences and length of the alignme
 
 
 Problem 3
-
-
+Model of amino-acids substitution  LG
+Amino acid frequencies (empirical/model defined)  model
+Gamma distributed rates across sites  yes             
+Gamma distribution parameter (fixed/estimated)  estimated
+Proportion of invariable sites (fixed/estimated)  fixed (p-invar = 0.00) 
